@@ -6,7 +6,7 @@
  * Time: 20:31
  */
 
-namespace App\Mini\Model;
+namespace Btybug\Mini\Model;
 
 use Btybug\btybug\Models\Painter\Painter;
 use Illuminate\Http\Request;

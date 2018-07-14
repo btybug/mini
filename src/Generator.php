@@ -6,7 +6,7 @@
  * Time: 20:57
  */
 
-namespace App\Mini;
+namespace Btybug\Mini;
 
 
 class Generator

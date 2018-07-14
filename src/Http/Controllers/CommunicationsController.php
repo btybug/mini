@@ -6,7 +6,7 @@
  * Time: 21:28
  */
 
-namespace App\Mini\Http\Controllers;
+namespace Btybug\Mini\Http\Controllers;
 
 
 use App\Http\Controllers\Controller;

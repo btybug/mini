@@ -6,7 +6,7 @@
  * Time: 14:25
  */
 
-namespace App\Mini\Http\Controllers;
+namespace Btybug\Mini\Http\Controllers;
 
 
 use App\Mini\Http\Requests\PageCreateRequest;

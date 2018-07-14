@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Mini\Providers;
+namespace Btybug\Mini\Providers;
 
 
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
@@ -58,7 +58,7 @@ class RouteServiceProvider extends ServiceProvider
                 'prefix' => 'my-account',
                 'namespace' => $this->namespace,
             ], function ($router) {
-                require __DIR__ . '/../route.php';
+                require __DIR__ . '/../Routes/route.php';
             });
         });
     }
@@ -74,7 +74,7 @@ class RouteServiceProvider extends ServiceProvider
                 'prefix' => 'admin/minicms',
                 'namespace' => $this->namespace,
             ], function ($router) {
-                require __DIR__ . '/../admin.php';
+                require __DIR__ . '/../Routes/admin.php';
             });
         });
     }

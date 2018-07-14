@@ -7,7 +7,7 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-namespace App\Mini\Http\Requests;
+namespace Btybug\Mini\Http\Requests;
 
 use Btybug\btybug\Http\Requests\Request;
 

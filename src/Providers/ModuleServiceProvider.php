@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Mini\Providers;
+namespace Btybug\Mini\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -6,7 +6,7 @@
  * Time: 20:31
  */
 
-namespace App\Mini\Services;
+namespace Btybug\Mini\Services;
 
 
 use Btybug\Console\Repository\FrontPagesRepository;

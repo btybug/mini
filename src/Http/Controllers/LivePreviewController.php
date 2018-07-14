@@ -6,7 +6,7 @@
  * Time: 14:39
  */
 
-namespace App\Mini\Http\Controllers;
+namespace Btybug\Mini\Http\Controllers;
 
 
 use Btybug\btybug\Models\ContentLayouts\ContentLayouts;
